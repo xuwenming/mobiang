@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+html, body, ul, li, h1, h2, h3, h4, h5, h6, fieldset, legend {padding:0; margin:0;}
+ul,li {list-style-type:none; text-transform:capitalize;}
+.clear {clear:both; *display:inline;/*IE only*/}
+
+/*menu*/
+#menu {height:35px;
+	 line-height:35px;width:710px; overflow:hidden; background:url(../images/nav1.png) top center no-repeat;}
+#nav {
+     margin:0 ; 
+     width:710px; 
+     display:block;	 
+	 height:35px;	 
+	 line-height:35px; overflow:hidden;
+}
+#nav .mainlevel {
+      
+	  float:left;
+	  color:#aeff00;  
+	  width:105.8px;
+/*IE6 only*/}
+#nav .mainlevel a {
+      color:#FFF;
+	  font-size:15px; 
+	 
+	  font-family:"微软雅黑";
+	  text-decoration:none; 
+	  line-height:35px; display:block; 
+	  padding:0; 
+	  width:110px;
+	  text-align:center;
+	
+	  }
+#nav .mainlevel a:hover {
+      color:#fff;
+	  line-height:35px; text-decoration: none;
+	  background: url(../images/d2.jpg) bottom center repeat-x; 
+	 
+	  }
+#nav .mainlevel a.active {
+      color:#fff;
+	  line-height:35px; text-decoration: none;
+	  background: url(../images/d2.jpg) bottom center repeat-x; 
+	 
+	  }
+#nav .mainlevel1 {
+	  float:left; 
+      color:#000000;
+	  margin:0px;
+	  padding:0px;
+	  overflow:hidden;
+	  width:110px;
+/*IE6 only*/}
+#nav .mainlevel1 li { list-style:none; height:30px; line-height:35px; overflow:hidden;}
+#nav .mainlevel1 a {
+      color:#000000;
+	  text-decoration:none; 
+	  line-height:35px; display:block;  
+	  width:110px;
+	  height:30px;
+	  margin:0px;
+	  padding:0px;
+	  overflow:hidden;
+	  text-align:center;
+	  }
+#nav .mainlevel1 a:hover {
+      color:#1b8851;
+	  line-height:35px; text-decoration:none; 
+	  background:url(../images/d3.jpg) 0 0 repeat-x;
+	  }
+#nav .mainlevel ul {
+      display:none; 
+	  position:absolute;
+	  }
+#nav .mainlevel li {
+      background:url(../images/d1.jpg) 0 0 repeat-x;; 
+	  width:155px;
+	  /*IE6 only*/}
+

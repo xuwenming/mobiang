@@ -1,0 +1,82 @@
+@charset "gb2312";
+/* CSS Document */
+
+body{ margin:0px auto; font-size:12px; color:#3d2f1b;font-family: "Î¢ÈíÑÅºÚ";}
+*{padding:0px;margin:0px auto;}
+body,ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,p,form,fieldset,legend,input,textarea,select,button,th,td {margin:0;padding:0;}
+h1,h2,h3,h4,h5,h6 {font-size:12px;list-style:none;}
+input,select {font:100% "Î¢ÈíÑÅºÚ" Helvetica, Tahoma, Arial, "Microsoft YaHei",  SimSun, sans-serif;}
+button {overflow:visible}
+img{border:none;}
+a{color:#646464;text-decoration:none;}
+a:hover{color:#C90101;text-decoration:none;}
+li{	list-style:none;}
+input,select,button{font:12px Verdana,Arial,Tahoma;vertical-align:middle;}
+.clear{overflow:hidden;clear:both; height:0px;}
+.lf{ float:left;}
+.rt{ float:right;}
+.t1 {color:#1B468D;text-decoration:none;}
+.t1 a:link{color:#1B468D;text-decoration:none;}
+.t1 a:hover{color:#C90101;text-decoration:none;}
+.a3{ line-height:35px; height:35px; width:198px; display:block; text-indent:35px; font-size:16px; color:#333333; margin-top:10px;}
+.a3 a:link{ line-height:35px; height:35px; width:198px; display:block; text-indent:35px; font-size:16px; color:#333333;}
+.a3 a:visited{ line-height:35px; height:35px; width:198px; display:block; text-indent:35px; font-size:16px; color:#333333;}
+.a3 a:hover{ line-height:35px; height:35px; width:198px; display:block; text-indent:35px; background:url(17.jpg) top left no-repeat; color:#FFF;}
+.a3 a:active{ line-height:35px; height:35px; width:198px; display:block; text-indent:35px; font-size:16px; color:#333333;}
+.a2{ font-size:14px; color:#6F6F6F;}
+.yewu { width:250px; float:left; height:190px;}
+.yewu img:hover{ background:url(../images/2.png);}
+.business .active{ background:url(../images/2.png);}
+ .s3  a{
+	width:183px; line-height:38px; display:block;  text-indent:48px; margin-bottom:5px; 
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size:14px;
+	color:#474747;
+	background:url(../images/n3.png) top center no-repeat;
+	
+	}	
+	 .s3  a:link{
+	width:183px; line-height:38px; display:block;  text-indent:48px; margin-bottom:5px; 
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size:14px;
+	color:#474747;
+	background:url(../images/n3.png) top center no-repeat;
+	
+	}
+	 .s3  a:visited{
+	width:183px; line-height:38px; display:block;  text-indent:48px; margin-bottom:5px; 
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size:14px;
+	color:#474747;
+	background:url(../images/n3.png) top center no-repeat;
+	
+	}
+ .s3 a:hover{
+width:183px; line-height:38px; display:block;  text-indent:48px; margin-bottom:5px; 
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size:14px;
+	color:#C80922;
+	background:url(../images/n4.png) top center no-repeat;
+	}
+	
+	 .s3  a.active{
+	width:183px; line-height:38px; display:block;  text-indent:48px; margin-bottom:5px; 
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size:14px;
+	color:#C80922;
+	background:url(../images/n4.png) top center no-repeat;
+	
+	}
+	
+	
+	.zw{padding:20px; line-height:28px; font-size:14px; color:#3D3D3D; min-height:450px;display: none;}
+	
+	.lm{ width:100%; height:27px; text-align:center; display:inline-block; margin:15px;}
+	.s1{ width:114px; background:url(../images/s1.png) top center no-repeat; height:27px; text-align:center; display:inline-block; font-size:16px; color: #FFF;  line-height:27px; height:27px; margin:0 3px;}	
+	 .s1 a:link{ color: #FFF;  display:inline-block;}	
+	 .s1 a:visited{color: #FFF; display:inline-block;}
+	 .s1 a:hover{ width:114px; background:url(../images/s2.png) top center no-repeat; display:inline-block; height:27px;}		
+	.s1 a:active{ color: #FFF; display:inline-block; }	
+.active { width:114px; background:url(../images/s2.png) top center no-repeat; }	
+.cp{ width:236px; margin:7px; float:left;}
+.cp span { width:230px; height:28px; line-height:28px; font-size:16px; color:#333333; background:#CCCCCC; text-align:center; display:block; margin-top:-24px; position:relative; z-index:99;}

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mobiang:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mobiang.war">
+      <element id="artifact" artifact-name="mobiang:war exploded" />
+    </root>
+  </artifact>
+</component>
